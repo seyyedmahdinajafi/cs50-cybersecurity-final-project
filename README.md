@@ -1,6 +1,5 @@
 # cs50-cybersecurity-final-project
 CS50's Introduction to Cybersecurity Final Project — Analysis of a March 2026 Microsoft 365 Device Code Phishing Campaign.
-حتماً. این README را مستقیم در فایل `README.md` گیت‌هاب قرار بده. فقط username و لینک YouTube را بعداً جایگزین کن.
 
 # Device Code Phishing: When MFA Is Not Enough
 
