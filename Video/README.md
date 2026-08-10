@@ -2,4 +2,4 @@
 
 The final project presentation is available as an unlisted YouTube video.
 
-YouTube: [Final Project Video https://youtu.be/bXwSzwAASYQ]
+[Watch the Final Project Video on YouTube](https://youtu.be/bXwSzwAASYQ)
